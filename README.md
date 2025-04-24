@@ -21,7 +21,7 @@ PyCharm 3.7: The development environment used for code editing and running the p
 To run this project, make sure you have Python 3.7 installed, along with the necessary libraries. Here are the steps to set up the environment:
 
 ### Clone the repository
-bash
+```bash
 Copy
 Edit
 git clone https://github.com/yourusername/repository-name.git
