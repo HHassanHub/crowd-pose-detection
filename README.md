@@ -19,7 +19,7 @@ PyCharm 3.7: The development environment used for code editing and running the p
 
 ## Installation
 
-To run this project, make sure you have Python 3.7 installed, along with the necessary libraries. Here are the steps to set up the environment:
+To run this project, make sure to have Python 3.7 installed, along with the necessary libraries. Here are the steps to set up the environment:
 
 ### 1. Clone the repository
 ```bash
@@ -38,13 +38,12 @@ pip install -r requirements.txt
 
 For this project, a total of 1596 images were extracted from a video. These images will be used for the crowd segmentation and detection tasks.
 
-You can annotate your dataset using CVAT for training purposes, and the images can be used for deep learning model training.
 
 ### 4. Annotation with CVAT
-Use [CVAT](https://github.com/openvinotoolkit/cvat) to annotate your dataset for training. Follow the CVAT documentation for setting up and annotating your video frames.
+Use [CVAT](https://github.com/openvinotoolkit/cvat) to annotate your dataset for training. Follow the CVAT documentation for setting up and annotating your video frames. To annotate the dataset using CVAT for training purposes, and the images can be used for deep learning model training.
 
 ### 5. Running the Project
-Once you have your dataset ready, run the following command to start the video analytics pipeline:
+When the dataset is ready, run the following command to start the video analytics pipeline:
 ```bash
 python main.py
 ```
