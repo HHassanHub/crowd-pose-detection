@@ -40,7 +40,7 @@ For this project, a total of 1596 images were extracted from a video. These imag
 
 
 ### 4. Annotation with CVAT
-Use [CVAT](https://github.com/openvinotoolkit/cvat) to annotate your dataset for training. Follow the CVAT documentation for setting up and annotating your video frames. To annotate the dataset using CVAT for training purposes, and the images can be used for deep learning model training.
+Use [CVAT](https://github.com/openvinotoolkit/cvat) to annotate the dataset for training. Follow the CVAT documentation for setting up and annotating your video frames. To annotate the dataset using CVAT for training purposes, and the images can be used for deep learning model training.
 
 ### 5. Running the Project
 When the dataset is ready, run the following command to start the video analytics pipeline:
