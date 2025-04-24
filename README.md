@@ -20,14 +20,14 @@ PyCharm 3.7: The development environment used for code editing and running the p
 # Installation
 To run this project, make sure you have Python 3.7 installed, along with the necessary libraries. Here are the steps to set up the environment:
 
-### 1. Clone the repository
+1. Clone the repository
 ```bash
 Copy
 Edit
 git clone https://github.com/yourusername/repository-name.git
 cd repository-name
 
-### 2. Install Dependencies
+2. Install Dependencies
 Create a virtual environment and install dependencies using pip:
 ```bash
 Copy
@@ -35,5 +35,6 @@ Edit
 python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
-### 3. Annotation with CVAT
+
+3. Annotation with CVAT
 Use CVAT to annotate your dataset for training. Follow the CVAT documentation for setting up and annotating your video frames.
