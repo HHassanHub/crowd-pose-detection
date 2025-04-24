@@ -17,24 +17,29 @@ CVAT: CVAT (Computer Vision Annotation Tool) is used for annotating video frames
 
 PyCharm 3.7: The development environment used for code editing and running the project.
 
-# Installation
+## Installation
+
 To run this project, make sure you have Python 3.7 installed, along with the necessary libraries. Here are the steps to set up the environment:
 
-1. Clone the repository
+### 1. Clone the repository
 ```bash
-Copy
-Edit
 git clone https://github.com/yourusername/repository-name.git
 cd repository-name
+```
 
-2. Install Dependencies
+### 2. Install Dependencies
 Create a virtual environment and install dependencies using pip:
 ```bash
-Copy
-Edit
 python3 -m venv env
-source env/bin/activate
+source env/bin/activate  # On Windows use `env\Scripts\activate`
 pip install -r requirements.txt
+```
 
-3. Annotation with CVAT
-Use CVAT to annotate your dataset for training. Follow the CVAT documentation for setting up and annotating your video frames.
+### 3. Annotation with CVAT
+Use [CVAT](https://github.com/openvinotoolkit/cvat) to annotate your dataset for training. Follow the CVAT documentation for setting up and annotating your video frames.
+
+### 4. Running the Project
+Once you have your dataset ready, run the following command to start the video analytics pipeline:
+```bash
+python main.py
+```
