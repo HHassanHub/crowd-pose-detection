@@ -35,7 +35,7 @@ source env/bin/activate  # On Windows use `env\Scripts\activate`
 pip install -r requirements.txt
 ```
 ## Dataset
-For this project, a total of 1596 images were extracted from a video. These images will be used for the crowd segmentation and detection tasks.
+For this project, a total of 1596 images were extracted from a video. From These, 15 images has been annotated and these will be used for the crowd segmentation and detection tasks.
 
 
 ## Annotation
