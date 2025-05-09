@@ -30,7 +30,7 @@ cd crowd-pose-detection
 
 ### 2. Setup Instructions
 
-#### 1. Install all dependencies from `requirements.txt`. **Python 3.7** and **TensorFlow 2.0.0** are recommended for compatibility with the Mask R-CNN architecture.
+1. Install all dependencies from `requirements.txt`. **Python 3.7** and **TensorFlow 2.0.0** are recommended for compatibility with the Mask R-CNN architecture.
 
 ```bash
 pip install -r requirements.txt
