@@ -1,6 +1,6 @@
 # Video Analytics using Deep Learning for Massive Crowd Instant Segments and Detections
 # Overview
-This project aims to develop a deep learning-based solution for massive crowd segmentation and detection in video analytics. By leveraging advanced neural networks and cutting-edge computer vision techniques, the system can process and analyze crowd scenes in real-time, providing instant segmentations and detections.
+Crowd Pose Detection — a deep learning-based solution for identifying human poses in large, dense gatherings like the Hajj pilgrimage. Traditional pose estimation struggles in extreme crowd conditions — this project aims to develop a deep learning-based solution for massive crowd segmentation and detection in video analytics and bridge that gap with a custom-trained, COCO-formatted dataset and tailored Mask R-CNN architecture. By leveraging advanced neural networks and cutting-edge computer vision techniques, the system can process and analyze crowd scenes in real-time, providing instant segmentations and detections.
 # Key Features
 Crowd Segmentation and Detection: Detect and segment crowds in videos using deep learning techniques.
 
@@ -21,11 +21,23 @@ To run this project, make sure to have Python 3.7 installed, along with the nece
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/repository-name.git
-cd repository-name
+#Grab the repo
+git clone https://github.com/HHassanHub/crowd-pose-detection.git
+
+#Enter the project directory
+cd crowd-pose-detection
 ```
 
-### 2. Install Dependencies
+### 2. Setup Instructions
+
+#### 1. Install all dependencies from `requirements.txt`. **Python 3.7** and **TensorFlow 2.0.0** are recommended for compatibility with the Mask R-CNN architecture.
+
+```bash
+pip install -r requirements.txt
+
+
+
+### 3. Install Dependencies
 Create a virtual environment and install dependencies using pip:
 ```bash
 python3 -m venv env
