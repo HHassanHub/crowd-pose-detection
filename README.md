@@ -34,13 +34,13 @@ cd crowd-pose-detection
 
 ```bash
 pip install -r requirements.txt
-
+```
 ### 3. Install Dependencies
 Create a virtual environment and install dependencies using pip:
 
 ```bash
 python3 -m venv env
-source env/bin/activate  # On Windows use `env\Scripts\activate`
+source env/bin/activate  # On Windows use: `env\Scripts\activate`
 pip install -r requirements.txt
 ```
 ## Dataset
