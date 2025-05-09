@@ -11,11 +11,9 @@ Deep Learning: Utilizes state-of-the-art models for accurate segmentation and de
 # Technologies Used
 Deep Learning: Convolutional Neural Networks (CNN), Mask R-CNN, and other advanced models for object detection and segmentation.
 
-Python: The project is developed in Python, utilizing the deep learning ecosystem.
+Python: The project is developed in Python, utilizing the deep learning ecosystem. Python 3.7 version has been used for the development environment, code editing and running the project
 
 CVAT: CVAT (Computer Vision Annotation Tool) is used for annotating video frames for training the model.
-
-PyCharm 3.7: The development environment used for code editing and running the project.
 
 ## Installation
 
