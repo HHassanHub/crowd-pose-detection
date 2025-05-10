@@ -2,22 +2,22 @@
 # Overview
 Crowd Pose Detection — a deep learning-based solution for identifying human poses in large, dense gatherings like the Hajj pilgrimage. Traditional pose estimation struggles in extreme crowd conditions — this project aims to develop a deep learning-based solution for massive crowd segmentation and detection in video analytics and bridge that gap with a custom-trained, COCO-formatted dataset and tailored Mask R-CNN architecture. By leveraging advanced neural networks and cutting-edge computer vision techniques, the system can process and analyze crowd scenes in real-time, providing instant segmentations and detections.
 # Key Features
-Crowd Segmentation and Detection: Detect and segment crowds in video frames using advanced deep learning techniques, providing accurate individual pose detection even in extreme conditions.
+**Crowd Segmentation and Detection:** Detect and segment crowds in video frames using advanced deep learning techniques, providing accurate individual pose detection even in extreme conditions.
 
-Real-time Analysis: The system is built to process large video feeds in real-time, allowing for immediate crowd analysis, which is crucial for safety monitoring and event management.
+**Real-time Analysis:** The system is built to process large video feeds in real-time, allowing for immediate crowd analysis, which is crucial for safety monitoring and event management.
 
-Deep Learning: Utilizes Mask R-CNN for precise segmentation and detection, enabling pixel-level accuracy in crowded environments.
+**Deep Learning:** Utilizes Mask R-CNN for precise segmentation and detection, enabling pixel-level accuracy in crowded environments.
 
-Crowd Safety Enhancements: Use of pose detection and crowd segmentation to assess safety risks and prevent overcrowding during high-density events.
+**Crowd Safety Enhancements:** Use of pose detection and crowd segmentation to assess safety risks and prevent overcrowding during high-density events.
 
-Scalability: The system is scalable, designed to work across different environments, from small gatherings to massive events, and can handle multiple video inputs simultaneously.
+**Scalability:** The system is scalable, designed to work across different environments, from small gatherings to massive events, and can handle multiple video inputs simultaneously.
 
 # Technologies Used
-Deep Learning Models: Convolutional Neural Networks (CNNs), Mask R-CNN, and other advanced models for accurate object detection and segmentation.
+**Deep Learning Models:** Convolutional Neural Networks (CNNs), Mask R-CNN, and other advanced models for accurate object detection and segmentation.
 
-Python: The project is developed using Python 3.7, leveraging its rich ecosystem of machine learning libraries.
+**Python:** The project is developed using Python 3.7, leveraging its rich ecosystem of machine learning libraries.
 
-CVAT: CVAT (Computer Vision Annotation Tool) is used for annotating video frames to create the dataset for model training.
+**CVAT:** CVAT (Computer Vision Annotation Tool) is used for annotating video frames to create the dataset for model training.
 
 ## Installation
 
@@ -59,3 +59,17 @@ When the dataset is ready, run the following command to start the video analytic
 ```bash
 python main.py
 ```
+This will initiate the process of analyzing the crowd footage and providing instant pose detection and segmentation.
+
+## Training Results
+
+
+
+## Future Enhancements
+**Real-Time Inference Demo:** We plan to add a real-time inference demo that will process live video streams for on-the-fly crowd pose detection and analysis.
+
+**Integration with IoT Devices:** The system could be integrated with IoT-based solutions for real-time crowd management, using pose detection data to control crowd flow and provide alerts.
+
+**Model Accuracy Improvement:** Future work will focus on improving model performance for handling occlusions, varying lighting conditions, and other challenges posed by highly dynamic environments.
+
+**Benchmarking and Paper Publication:** The project will also involve benchmarking the model’s performance and publishing findings in a research paper.
