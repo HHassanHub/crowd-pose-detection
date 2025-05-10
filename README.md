@@ -6,7 +6,7 @@
 
 **Real-time Analysis:** The system is built to process large video feeds in real-time, allowing for immediate crowd analysis, which is crucial for safety monitoring and event management.
 
-**Deep Learning:** Utilizes Mask R-CNN for precise segmentation and detection, enabling pixel-level accuracy in crowded environments.
+**Deep Learning:** Utilizes **Mask R-CNN** for precise segmentation and detection, enabling pixel-level accuracy in crowded environments.
 
 **Crowd Safety Enhancements:** Use of pose detection and crowd segmentation to assess safety risks and prevent overcrowding during high-density events.
 
