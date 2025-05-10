@@ -13,7 +13,7 @@
 **Scalability:** The system is scalable, designed to work across different environments, from small gatherings to massive events, and can handle multiple video inputs simultaneously.
 
 # Technologies Used
-**Deep Learning Models:** Convolutional Neural Networks (CNNs), Mask R-CNN, and other advanced models for accurate object detection and segmentation.
+**Deep Learning Models:** Convolutional Neural Networks (CNNs), **Mask R-CNN**, and other advanced models for accurate object detection and segmentation.
 
 **Python:** The project is developed using Python 3.7, leveraging its rich ecosystem of machine learning libraries.
 
@@ -21,7 +21,7 @@
 
 ## Installation
 
-To run this project, make sure to have Python 3.7 installed, along with the necessary libraries. Here are the steps to set up the environment:
+To run this project, make sure to have **Python 3.7 installed**, along with the necessary libraries. Here are the steps to set up the environment:
 
 ### 1. Clone the repository
 ```bash
@@ -48,7 +48,7 @@ source env/bin/activate  # On Windows use: `env\Scripts\activate`
 pip install -r requirements.txt
 ```
 ## Dataset
-For this project, a total of 1596 images were extracted from a video. From These, 15 images has been annotated and these will be used for the crowd segmentation and detection tasks.
+For this project, a total of **1596 images** were extracted from a video. From These, **15 images** has been annotated and these will be used for the crowd segmentation and detection tasks.
 
 
 ## Annotation
@@ -62,8 +62,10 @@ python main.py
 This will initiate the process of analyzing the crowd footage and providing instant pose detection and segmentation.
 
 ## Training Results
+coming soon
 
-
+## Results
+coming soon
 
 ## Future Enhancements
 **Real-Time Inference Demo:** We plan to add a real-time inference demo that will process live video streams for on-the-fly crowd pose detection and analysis.
