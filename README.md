@@ -2,11 +2,11 @@
 # Overview
 Crowd Pose Detection — a deep learning-based solution for identifying human poses in large, dense gatherings like the Hajj pilgrimage. Traditional pose estimation struggles in extreme crowd conditions — this project aims to develop a deep learning-based solution for massive crowd segmentation and detection in video analytics and bridge that gap with a custom-trained, COCO-formatted dataset and tailored Mask R-CNN architecture. By leveraging advanced neural networks and cutting-edge computer vision techniques, the system can process and analyze crowd scenes in real-time, providing instant segmentations and detections.
 # Key Features
-#Crowd Segmentation and Detection: Detect and segment crowds in video frames using advanced deep learning techniques, providing accurate individual pose detection even in extreme conditions.
-#Real-time Analysis: The system is built to process large video feeds in real-time, allowing for immediate crowd analysis, which is crucial for safety monitoring and event management.
-#Deep Learning: Utilizes Mask R-CNN for precise segmentation and detection, enabling pixel-level accuracy in crowded environments.
-#Crowd Safety Enhancements: Use of pose detection and crowd segmentation to assess safety risks and prevent overcrowding during high-density events.
-#Scalability: The system is scalable, designed to work across different environments, from small gatherings to massive events, and can handle multiple video inputs simultaneously.
+Crowd Segmentation and Detection: Detect and segment crowds in video frames using advanced deep learning techniques, providing accurate individual pose detection even in extreme conditions.
+Real-time Analysis: The system is built to process large video feeds in real-time, allowing for immediate crowd analysis, which is crucial for safety monitoring and event management.
+Deep Learning: Utilizes Mask R-CNN for precise segmentation and detection, enabling pixel-level accuracy in crowded environments.
+Crowd Safety Enhancements: Use of pose detection and crowd segmentation to assess safety risks and prevent overcrowding during high-density events.
+Scalability: The system is scalable, designed to work across different environments, from small gatherings to massive events, and can handle multiple video inputs simultaneously.
 
 # Technologies Used
 Deep Learning Models: Convolutional Neural Networks (CNNs), Mask R-CNN, and other advanced models for accurate object detection and segmentation.
