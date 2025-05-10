@@ -1,6 +1,6 @@
 # Video Analytics using Deep Learning for Massive Crowd Instant Segments and Detections
 # Overview
-**Crowd Pose Detection** — a deep learning-based solution for identifying human poses in large, dense gatherings like the Hajj pilgrimage. Traditional pose estimation struggles in extreme crowd conditions — this project aims to develop a deep learning-based solution for massive crowd segmentation and detection in video analytics and bridge that gap with a custom-trained, COCO-formatted dataset and tailored Mask R-CNN architecture. By leveraging advanced neural networks and cutting-edge computer vision techniques, the system can process and analyze crowd scenes in real-time, providing instant segmentations and detections.
+**Crowd Pose Detection**, a deep learning-based solution for identifying human poses in large, dense gatherings like the Hajj pilgrimage. Traditional pose estimation struggles in extreme crowd conditions. In this project aims to develop a deep learning-based solution for massive crowd segmentation and detection in video analytics and bridge that gap with a custom-trained, COCO-formatted dataset and tailored Mask R-CNN architecture. By leveraging advanced neural networks and cutting-edge computer vision techniques, the system can process and analyze crowd scenes in real-time, providing instant segmentations and detections.
 # Key Features
 **Crowd Segmentation and Detection:** Detect and segment crowds in video frames using advanced deep learning techniques, providing accurate individual pose detection even in extreme conditions.
 
