@@ -67,10 +67,7 @@ This will initiate the process of analyzing the crowd footage and providing inst
 These are a few sample frames extracted from the Hajj video used for training:
 
 <p float="left">
-  <img src="results/IMG_0001.jpg" width="220"/>
-  <img src="results/original2.png" width="220"/>
-  <img src="results/original3.png" width="220"/>
-  <img src="results/original4.png" width="220"/>
+  <img src="train/IMG_0001.jpg" width="220"/>
 </p>
 
 ---
