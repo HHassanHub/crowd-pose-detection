@@ -68,8 +68,11 @@ These are a few sample frames extracted from the Hajj video used for training:
 
 <p float="left">
   <img src="images/IMG_0001.jpg" width="400"/>
+  <br>
   <img src="images/IMG_0002.jpg" width="400"/>
+  <br>
   <img src="images/IMG_0003.jpg" width="400"/>
+  <br>
   <img src="images/IMG_0004.jpg" width="400"/>
 </p>
 
@@ -81,9 +84,12 @@ These are a few sample results after training the model on the Hajj video frames
 
 <p float="left">
   <img src="images/myplot 1.png" width="50%"/>
-  <img src="images/myplot 2.png" width="400"/>
-  <img src="images/myplot 3.png" width="400"/>
-  <img src="images/myplot 4.png" width="400"/>
+  <br>
+  <img src="images/myplot 2.png" width="50%"/>
+  <br>
+  <img src="images/myplot 3.png" width="50%"/>
+  <br>
+  <img src="images/myplot 4.png" width="50%"/>
 </p>
 
 ## Results
