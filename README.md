@@ -62,12 +62,15 @@ python main.py
 This will initiate the process of analyzing the crowd footage and providing instant pose detection and segmentation.
 
 ## Training Results
-### 🔹 Original Input Frames
+### Original Input Frames
 
 These are a few sample frames extracted from the Hajj video used for training:
 
 <p float="left">
   <img src="images/IMG_0001.jpg" width="220"/>
+  <img src="images/IMG_0002.jpg" width="220"/>
+  <img src="images/IMG_0003.jpg" width="220"/>
+  <img src="images/IMG_0004.jpg" width="220"/>
 </p>
 
 ---
