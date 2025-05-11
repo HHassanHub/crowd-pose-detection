@@ -66,13 +66,10 @@ This will initiate the process of analyzing the crowd footage and providing inst
 
 These are a few sample frames extracted from the Hajj video used for training:
 
-<p float="left">
+<p float="middle">
   <img src="images/IMG_0001.jpg" width="400"/>
-  <br>
   <img src="images/IMG_0002.jpg" width="400"/>
-  <br>
   <img src="images/IMG_0003.jpg" width="400"/>
-  <br>
   <img src="images/IMG_0004.jpg" width="400"/>
 </p>
 
@@ -82,20 +79,14 @@ These are a few sample frames extracted from the Hajj video used for training:
 
 These are a few sample results after training the model on the Hajj video frames:
 
-<p float="left">
-<img src="images/myplot 1.png" width="1194" height="293"/>
-
+<p float="middle">
+<img src="images/myplot 1.png" width="400"/>
 <br>
-
-<img src="images/myplot 2.png" width="1194" height="293"/>
-
+<img src="images/myplot 2.png" width="400"/>
 <br>
-
-<img src="images/myplot 3.png" width="1194" height="293"/>
-
+<img src="images/myplot 3.png" width="400"/>
 <br>
-
-<img src="images/myplot 4.png" width="1194" height="293"/>
+<img src="images/myplot 4.png" width="400"/>
 </p>
 
 ## Results
