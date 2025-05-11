@@ -91,7 +91,7 @@ These are a few sample results after training the model on the Hajj video frames
 
 ---
 
-## Results
+## Test Results
 coming soon
 
 ## Future Enhancements
