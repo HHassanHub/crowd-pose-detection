@@ -80,7 +80,7 @@ These are a few sample frames extracted from the Hajj video used for training:
 These are a few sample results after training the model on the Hajj video frames:
 
 <p float="left">
-  <img src="images/myplot 1.png" width="400"/>
+  <img src="images/myplot 1.png" width="50%"/>
   <img src="images/myplot 2.png" width="400"/>
   <img src="images/myplot 3.png" width="400"/>
   <img src="images/myplot 4.png" width="400"/>
