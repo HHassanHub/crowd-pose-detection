@@ -67,7 +67,7 @@ This will initiate the process of analyzing the crowd footage and providing inst
 These are a few sample frames extracted from the Hajj video used for training:
 
 <p float="left">
-  <img src="DownloadsMask-RCNN-TF2-master/dataset/train/IMG_0001.jpg" width="220"/>
+  <img src="images/IMG_0001.jpg" width="220"/>
 </p>
 
 ---
