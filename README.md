@@ -85,6 +85,7 @@ These are a few sample results after training the model on the Hajj video frames
   <img src="images/myplot 3.png" width="400"/>
   <img src="images/myplot 4.png" width="400"/>
 </p>
+
 ---
 
 ## Results
