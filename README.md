@@ -75,7 +75,7 @@ These are a few sample frames extracted from the Hajj video used for training:
 
 ---
 
-## Training Results
+## Training Output
 
 These are a few sample results after training the model on the Hajj video frames:
 
