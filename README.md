@@ -1,10 +1,10 @@
 # Video Analytics using Deep Learning for Massive Crowd Instant Segments and Detections
 # Overview
-**Crowd Pose Detection**, a deep learning-based solution for identifying human poses in large, dense gatherings like the Hajj pilgrimage. Traditional pose estimation struggles in extreme crowd conditions. In this project aims to develop a deep learning-based solution for massive crowd segmentation and detection in video analytics and bridge that gap with a custom-trained, COCO-formatted dataset and tailored Mask R-CNN architecture. By leveraging advanced neural networks and cutting-edge computer vision techniques, the system can process and analyze crowd scenes in real-time, providing instant segmentations and detections.
+**Crowd Pose Detection**, a deep learning-based method for the detection of human poses in huge, dense crowds like the Hajj pilgrimage. Traditional pose estimation fails in extreme crowd conditions. This project aims to develop a deep learning-based method to massive crowd segmentation and detection in video analytics and bridge that gap with a specially trained, COCO-formatted dataset and customized Mask R-CNN architecture. With the use of deep neural networks and advanced computer vision algorithms, the system is capable of processing crowd scenes in real-time and providing real-time segmentations and detections.
 # Key Features
-**Crowd Segmentation and Detection:** Detect and segment crowds in video frames using advanced deep learning techniques, providing accurate individual pose detection even in extreme conditions.
+**Crowd Segmentation and Detection:** Detect and segment crowds in video frames using state-of-the-art deep learning techniques, providing accurate individual pose detection even in extreme conditions.
 
-**Real-time Analysis:** The system is built to process large video feeds in real-time, allowing for immediate crowd analysis, which is crucial for safety monitoring and event management.
+**Real-time Analysis:** The system is built to process enormous video feeds in real time, facilitating immediate crowd analysis, which is critical for safety monitoring and event management.
 
 **Deep Learning:** Utilizes **Mask R-CNN** for precise segmentation and detection, enabling pixel-level accuracy in crowded environments.
 
@@ -52,7 +52,7 @@ For this project, a total of **1596 images** were extracted from a video. From T
 
 
 ## Annotation
-Use [CVAT](https://github.com/openvinotoolkit/cvat) to annotate the dataset for training. Follow the CVAT documentation for setting up and annotating your video frames. To annotate the dataset using CVAT for training purposes, and the images can be used for deep learning model training.
+Use [CVAT](https://github.com/openvinotoolkit/cvat) to annotate your training dataset. Read the CVAT documentation to see how to configure and annotate your video frames. To annotate your training dataset with CVAT, and the images to train deep learning models.
 
 ## Running the Project
 When the dataset is ready, run the following command to start the video analytics pipeline:
