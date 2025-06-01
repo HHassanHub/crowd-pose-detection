@@ -92,8 +92,10 @@ These are a few sample results after training the model on the Hajj video frames
 ---
 
 ## Test Results
-coming soon
+These are a few sample results after testing the model on the Hajj video frames:
 
+
+---
 ## Future Enhancements
 **Real-Time Inference Demo:** We plan to add a real-time inference demo that will process live video streams for on-the-fly crowd pose detection and analysis.
 
