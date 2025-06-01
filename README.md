@@ -96,13 +96,9 @@ These are a few sample results after testing the model on the Hajj video frames:
 
 <p float="middle">
 <img src="images/test result 1.jpg" width="400"/>
-<br>
 <img src="images/test result 2.jpg" width="400"/>
-<br>
 <img src="images/test result 3.jpg" width="400"/>
-<br>
 <img src="images/test result 4.jpg" width="400"/>
-</p>
 
 ---
 ## Future Enhancements
